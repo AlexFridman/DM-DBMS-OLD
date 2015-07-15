@@ -1,0 +1,6 @@
+DECLARE
+  Perem1 INTEGER;
+  Perem2 VARCHAR2(128);
+BEGIN
+  NULL;
+END;
